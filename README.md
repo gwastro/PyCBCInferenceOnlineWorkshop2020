@@ -13,8 +13,8 @@ All times are CEST.
 ### Thursday 18 June
  * 11:00 - 12:30: Lectures
    * introduction to Bayesian Inference,  gravitational-wave models, and stochastic sampling
- * 12:30 - 2:30: lunch break
- * 2:30 - 5:30: Tutorials
+ * 12:30 - 14:30: break
+ * 14:30 - 17:30: Tutorials
    * Learn about models and do parameter estimation in a notebook
    * PyCBC Inference code road map
    * Using PyCBC Inference on an analytic test
@@ -22,9 +22,10 @@ All times are CEST.
 ### Friday 19 June
  * 11:00 - 12:00: Tutorial
    * How to estimate the parameters of a binary neutron star merger
- * 1:30 - 3:30
+ * 13:00 - 15:30
    * How to load, plot, and manipulate results
-   * Advanced configuration settings   
- * 3:30 - 5:30: How to use PyCBC Inference in Condor workflow *Note: this session will focus on how to use the workflow on the Atlas cluster for members of the AEI Hannover, but will be instructive for anyone that has access to a condor-enabled cluster.*
+   * Advanced configuration settings
+   * How to add custom waveforms to PyCBC
+ * 16:00 - 17:30: How to use PyCBC Inference in Condor workflow *Note: this session will focus on how to use the workflow on the Atlas cluster for members of the AEI Hannover, but will be instructive for anyone that has access to a condor-enabled cluster.*
    * Analyzing multiple events at once
    * Doing percentile-percentile tests and/or injection studies
