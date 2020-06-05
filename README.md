@@ -6,7 +6,7 @@ In this workshop, we will provide tutorials on how to use PyCBC Inference to do 
 
 Please RSVP [here](https://forms.gle/wqcDU9KYpfin7YcF8).
 
-## Itinerary (suject to change)
+## Itinerary (subject to change)
 
 All times are CEST.
 
