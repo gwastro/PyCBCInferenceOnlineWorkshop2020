@@ -4,13 +4,13 @@ In this workshop, we will provide tutorials on how to use PyCBC Inference to do 
 
 ## Register
 
-Please RSVP [here](https://forms.gle/wqcDU9KYpfin7YcF8).
+Please RSVP [here](https://forms.gle/Z8oWAnbnCM14EuZ77).
 
 ## Itinerary (subject to change)
 
 All times are CEST.
 
-### Thursday 18 June
+### Thursday 25 June
  * 11:00 - 12:30: Lectures
    * introduction to Bayesian Inference,  gravitational-wave models, and stochastic sampling
  * 12:30 - 14:30: break
@@ -19,7 +19,7 @@ All times are CEST.
    * PyCBC Inference code road map
    * Using PyCBC Inference on an analytic test
 
-### Friday 19 June
+### Friday 26 June
  * 11:00 - 12:00: Tutorial
    * How to estimate the parameters of a binary neutron star merger
  * 12:00 - 13:00: break
