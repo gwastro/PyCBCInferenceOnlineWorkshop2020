@@ -2,13 +2,9 @@
 
 In this workshop, we will provide tutorials on how to use PyCBC Inference to do parameter estimation with gravitational waves. Tutorials will involve going through jupyter notebooks that highlight how the various methods and functions in PyCBC Inference work, and how to use the exectuables to do gravitational-wave parameter estimation. We will also review basics of Bayesian inference and stochastic sampling, and their application to gravitational waves.
 
-## Register
-
-Please RSVP [here](https://forms.gle/Z8oWAnbnCM14EuZ77).
-
 ## Meeting location
 
-We will hold the meeting via Zoom. We will email participants the session information the day before the meeting.
+We will hold the meeting via Zoom. We will email participants the connection information.
 
 ## Prerequisites
 
