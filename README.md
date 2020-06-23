@@ -32,22 +32,23 @@ Go to https://apps.sciserver.org/compute/.
 All times are CEST.
 
 ### Thursday 25 June
- * 11:00 - 12:30: Lectures
+ * 11:00 - 12:00: Lectures 
    * introduction to Bayesian Inference,  gravitational-wave models, and stochastic sampling
- * 12:30 - 14:30: break
+ * 12:00 - 12:15: Setting up Sciserver
+ * 12:15 - 14:30: break
  * 14:30 - 17:30: Tutorials
-   * Learn about models and do parameter estimation in a notebook
-   * PyCBC Inference code road map
-   * Using PyCBC Inference on an analytic test
+   * Learn about models and do parameter estimation in a notebook  (Inference #1)
+   * PyCBC Inference code road map (Inference #2)
+   * Using PyCBC Inference on an analytic test (Inference #3)
 
 ### Friday 26 June
  * 11:00 - 12:00: Tutorial
-   * How to estimate the parameters of a binary neutron star merger
+   * How to estimate the parameters of a binary neutron star merger (Inference #4)
  * 12:00 - 13:00: break
  * 13:00 - 15:30
-   * How to load, plot, and manipulate results
-   * Advanced configuration settings
-   * How to add custom waveforms to PyCBC
+   * How to load, plot, and manipulate results (Inference #5)
+   * Advanced configuration settings (Inference #6)
+   * How to add custom waveforms to PyCBC (Inference #7)
  * 16:00 - 17:30: How to use PyCBC Inference in Condor workflow *Note: this session will focus on how to use the workflow on the Atlas cluster for members of the AEI Hannover, but will be instructive for anyone that has access to a condor-enabled cluster.*
    * Analyzing multiple events at once
    * Doing percentile-percentile tests and/or injection studies
