@@ -6,6 +6,27 @@ In this workshop, we will provide tutorials on how to use PyCBC Inference to do 
 
 Please RSVP [here](https://forms.gle/Z8oWAnbnCM14EuZ77).
 
+## Meeting location
+
+We will hold the meeting via Zoom. We will email participants the session information the day before the meeting.
+
+## Prerequisites
+
+To run the tutorials, we will be using [SciServer](https://apps.sciserver.org). If you don't already have one, please create a SciServer account (it's free) before the meeting. 
+
+### How to setup SciServer
+*Note: we will go through the following instructions on Thursday morning, before going through the first tutorial. Feel free to do this ahead of time if you like, however.*
+Go to https://apps.sciserver.org/compute/.
+  1. Click "Create container". Give it a name. In the "Compute Image" drop-down menu make sure "SciServer Essentials" is selected. Then click "Create."
+  1. Click on the container you just created; this will open a new tab in your browser that is a Jupyter notebook interface.
+  1. All of the tutorials we will use are in the [PyCBC-Tutorials](https://github.com/gwastro/PyCBC-Tutorials) repository. Clone the PyCBC-Tutorials repository into your SciServer container: Click "New" -> "Terminal". This will open another tab that with a bash terminal in it. Change directory into "workspace" by typing `cd workspace`. Now type:
+     ```
+     git clone https://github.com/gwastro/PyCBC-Tutorials.git
+     ```
+     This will download a copy of this repository to your directory on SciServer.
+  1. Go back to your tab with the Jupyter notebook. Click on the "PyCBC-Tutorials" directory. From there you can navigate to the tutorial you want to view (using the itinerary below as a guide). When you click on a tutorial (files that end in `.ipynb`), a new tab will open with the tutorial open in it. All of the code needed is installed at the beginning of the tutorials.
+
+
 ## Itinerary (subject to change)
 
 All times are CEST.
