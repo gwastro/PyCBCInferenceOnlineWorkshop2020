@@ -28,8 +28,8 @@ Go to https://apps.sciserver.org/compute/.
 All times are CEST.
 
 ### Thursday 25 June
- * 11:00 - 12:00: Lectures 
-   * introduction to Bayesian Inference,  gravitational-wave models, and stochastic sampling
+ * 11:00 - 12:00: Lecture
+    * Introduction to Bayesian Inference and PyCBC Inference [keynote version](intro_to_bayesian_inference.key), [pdf version](intro_to_bayesian_inference.pdf)
  * 12:00 - 12:15: Setting up Sciserver
  * 12:15 - 14:30: break
  * 14:30 - 17:30: Tutorials
