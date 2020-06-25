@@ -20,6 +20,11 @@ Go to https://apps.sciserver.org/compute/.
      git clone https://github.com/gwastro/PyCBC-Tutorials.git
      ```
      This will download a copy of this repository to your directory on SciServer.
+  1. We will be using the `Workshop2020` tag of `PyCBC-Tutorials`. To ensure that you are using that tag, after the clone, change directory into "PyCBC-Tutorials" by typing `cd PyCBC-Tutorials`. Now type:
+    ```
+    git checkout tags/Workshop2020 -b Workshop2020
+    ```
+    This will checkout a local branch of the Workshop2020 release.
   1. Go back to your tab with the Jupyter notebook. Click on the "PyCBC-Tutorials" directory. From there you can navigate to the tutorial you want to view (using the itinerary below as a guide). When you click on a tutorial (files that end in `.ipynb`), a new tab will open with the tutorial open in it. All of the code needed is installed at the beginning of the tutorials.
 
 
