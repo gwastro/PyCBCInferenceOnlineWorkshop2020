@@ -44,7 +44,7 @@ All times are CEST.
 
 ### Friday 26 June
  * 11:00 - 12:00: Tutorial
-   * How to estimate the parameters of a binary neutron star merger (Inference #4)
+   * How to estimate the parameters of a binary black hole merger (Inference #4)
  * 12:00 - 13:00: break
  * 13:00 - 15:30
    * How to load, plot, and manipulate results (Inference #5)
