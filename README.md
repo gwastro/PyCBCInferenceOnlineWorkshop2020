@@ -50,6 +50,8 @@ All times are CEST.
    * How to load, plot, and manipulate results (Inference #5)
    * Advanced configuration settings (Inference #6)
    * How to add custom waveforms to PyCBC (Inference #7)
- * 16:00 - 17:30: How to use PyCBC Inference in Condor workflow *Note: this session will focus on how to use the workflow on the Atlas cluster for members of the AEI Hannover, but will be instructive for anyone that has access to a condor-enabled cluster.*
+ * 16:00 - 17:25: How to use PyCBC Inference in Condor workflow *Note: this session will focus on how to use the workflow on the Atlas cluster for members of the 
+AEI Hannover, but will be instructive for anyone that has access to a condor-enabled cluster.*
    * Analyzing multiple events at once
    * Doing percentile-percentile tests and/or injection studies
+ * 17:25 - 17:30: Closing Remarks 
